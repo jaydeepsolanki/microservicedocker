@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Products>
+   <prod>
+      <Id>1</Id>
+      <Name>Prod 1</Name>
+      <Description>Test Description</Description>
+      <Price>1000</Price>
+      <CategoryId>1</CategoryId>
+   </prod>
+    <prod>
+	  <Id>1</Id>
+      <Name>Prod 2</Name>
+      <Description>Test Description</Description>
+      <Price>2000</Price>
+      <CategoryId>1</CategoryId>
+   </prod>
+</Products>
